@@ -5,3 +5,9 @@ GET http://localhost:3000/users
 ### Get user by id
 GET http://localhost:3000/users/68bc6c187fae810275ad3bd5
 
+//Production
+### Get all users
+GET https://cse341-project1-4q6u.onrender.com/users
+
+### Get user by id
+GET https://cse341-project1-4q6u.onrender.com/users/68bc6c187fae810275ad3bd5
