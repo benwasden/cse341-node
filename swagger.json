@@ -29,7 +29,7 @@
         "tags": [
           "Contacts"
         ],
-        "description": "",
+        "description": "Gets all contacts in the database",
         "produces": [
           "application/json"
         ],
@@ -43,7 +43,7 @@
         "tags": [
           "Contacts"
         ],
-        "description": "",
+        "description": "Adds a contact to the database",
         "parameters": [
           {
             "name": "body",
@@ -85,7 +85,7 @@
         "tags": [
           "Contacts"
         ],
-        "description": "",
+        "description": "Search for a contact by their ID",
         "produces": [
           "application/json"
         ],
@@ -107,7 +107,7 @@
         "tags": [
           "Contacts"
         ],
-        "description": "",
+        "description": "Update a contact",
         "parameters": [
           {
             "name": "id",
@@ -153,7 +153,7 @@
         "tags": [
           "Contacts"
         ],
-        "description": "",
+        "description": "Delete a contact",
         "parameters": [
           {
             "name": "id",
